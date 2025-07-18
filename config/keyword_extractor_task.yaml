@@ -1,0 +1,7 @@
+keyword_extractor_task:
+  description: >
+    Extract technical terms related to software engineering field from the {description}.
+    If you need additional information to answer correctly, use available tools to research the topic.
+
+  expected_output: >
+    An array of technical terms related to software engineering field sorted in alphabetical order.
